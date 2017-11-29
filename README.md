@@ -21,3 +21,6 @@ Congratulations on creating your first app! Feel free to replace this text with 
 Additional details:
 1. The `_en` in the `iparam_en.json` file stands for the English language. If you need to support another language, say Italian, you need to have a `iparam_it.json` file in addition to the English one."
 
+## Freshdesk v2 DOCS
+
+https://developers.freshdesk.com/v2/docs/quick-start/
