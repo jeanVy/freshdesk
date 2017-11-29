@@ -1,0 +1,19 @@
+<html>
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+  <script src="https://static.freshdev.io/fdk/2.0/assets/fresh_client.js"></script>
+  <script src="app.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" type="text/css" href="https://static.freshdev.io/fdk/2.0/assets/freshdesk.css">
+</head>
+<body>
+ <div class="widget">
+  <h3>Client Ticket URL</h3>
+  <div class="content">
+    <input id="client_ticket_url" readonly onclick="this.select()" value='' class="text" />
+    <button type="button" class="btn btn-default" id="btn_copy_client_ticket_url">Copy</button>
+    <div id="copy_status" class="alert alert-success"></div>
+  </div>
+</div>
+</body>
+</html>

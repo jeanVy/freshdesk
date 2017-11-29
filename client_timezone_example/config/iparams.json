@@ -1,0 +1,11 @@
+{"APIKey":{
+ "display_name": "API Key: (you can get for free from www.apixu.com)",
+ "description": "Please enter your API key",
+ "type": "text",
+ "required": true},
+ "freshKey":{
+ "display_name": "Fresh Key: ",
+ "description": "Please enter your API key",
+ "type": "text",
+ "required": true}
+}
